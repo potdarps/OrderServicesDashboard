@@ -1,2 +1,2 @@
 # OrderServicesDashboard
-Order Services Automation for Seneca
+Order Services Automation 
